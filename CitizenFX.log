@@ -1,0 +1,199 @@
+[         0] Initializing Mono
+[       578] Initializing Mono completed
+[       609] Hello!
+[      1078] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[      1078]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[      1094]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[      1187] Found new resource fivem in C:/Users\Insane\Desktop\FX/resources//fivem
+[      1219] Found new resource fivem-awesome1501 in C:/Users\Insane\Desktop\FX/resources//fivem-awesome1501
+[      1219] Found new resource fivem-map-hipster in C:/Users\Insane\Desktop\FX/resources//fivem-map-hipster
+[      2672] Found new resource fivem-map-skater in C:/Users\Insane\Desktop\FX/resources//fivem-map-skater
+[      2703] Found new resource race in C:/Users\Insane\Desktop\FX/resources//[gamemodes]/race
+[      2719] Found new resource race-test in C:/Users\Insane\Desktop\FX/resources//[gamemodes]/race-test
+[      2719] Found new resource channelfeed in C:/Users\Insane\Desktop\FX/resources//[gameplay]/channelfeed
+[      2719] Found new resource irc in C:/Users\Insane\Desktop\FX/resources//[gameplay]/irc
+[      2734] Found new resource obituary in C:/Users\Insane\Desktop\FX/resources//[gameplay]/obituary
+[      2734] Found new resource obituary-deaths in C:/Users\Insane\Desktop\FX/resources//[gameplay]/obituary-deaths
+[      2750] Found new resource mapmanager in C:/Users\Insane\Desktop\FX/resources//[managers]/mapmanager
+[      2750] Found new resource baseevents in C:/Users\Insane\Desktop\FX/resources//[system]/baseevents
+[      2750] Found new resource chat in C:/Users\Insane\Desktop\FX/resources//[system]/chat
+[      2766] Found new resource hardcap in C:/Users\Insane\Desktop\FX/resources//[system]/hardcap
+[      2766] Found new resource rconlog in C:/Users\Insane\Desktop\FX/resources//[system]/rconlog
+[      2766] Found new resource scoreboard in C:/Users\Insane\Desktop\FX/resources//[system]/scoreboard
+[      2781] Found new resource sessionmanager in C:/Users\Insane\Desktop\FX/resources//[system]/sessionmanager
+[      2781] Found new resource spawnmanager in C:/Users\Insane\Desktop\FX/resources//[system]/spawnmanager
+[      2781] Found new resource betaguns in C:/Users\Insane\Desktop\FX/resources//[test]/betaguns
+[      2797] Found new resource gameInit in C:/Users\Insane\Desktop\FX/resources//[test]/gameInit
+[      2797] Found new resource keks in C:/Users\Insane\Desktop\FX/resources//[test]/keks
+[      3016] Started resource sessionmanager
+[      3031] Started resource mapmanager
+[      3047] Started resource chat
+[      3062] Started resource spawnmanager
+[      3062] Started resource hardcap
+[      3078] Started resource fivem
+[      3078] Started gametype Freeroam
+[      3094] Started resource rconlog
+[      3094] ^3Couldn't find resource mysql-async.^7
+[      3219] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      3234] Sending heartbeat to live-internal.fivem.net:30110
+[      3234] Started resource fivem-map-hipster
+[      3250] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        78] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[        78]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[        93]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[        93] Found new resource fivem in C:/Users\Insane\Desktop\FX/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Insane\Desktop\FX/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Insane\Desktop\FX/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\Insane\Desktop\FX/resources//fivem-map-skater
+[       125] Found new resource foodhud in C:/Users\Insane\Desktop\FX/resources//foodhud
+[       125] Found new resource ft_gamemode in C:/Users\Insane\Desktop\FX/resources//ft_gamemode
+[       140] Found new resource InteractSound in C:/Users\Insane\Desktop\FX/resources//InteractSound
+[       140] Found new resource LMC-Los-Santos in C:/Users\Insane\Desktop\FX/resources//LMC-Los-Santos
+[       156] Found new resource mysql-async in C:/Users\Insane\Desktop\FX/resources//mysql-async
+[       156] Found new resource skins in C:/Users\Insane\Desktop\FX/resources//skins
+[       171] Found new resource race in C:/Users\Insane\Desktop\FX/resources//[gamemodes]/race
+[       171] Found new resource race-test in C:/Users\Insane\Desktop\FX/resources//[gamemodes]/race-test
+[       187] Found new resource channelfeed in C:/Users\Insane\Desktop\FX/resources//[gameplay]/channelfeed
+[       187] Found new resource irc in C:/Users\Insane\Desktop\FX/resources//[gameplay]/irc
+[       187] Found new resource obituary in C:/Users\Insane\Desktop\FX/resources//[gameplay]/obituary
+[       203] Found new resource obituary-deaths in C:/Users\Insane\Desktop\FX/resources//[gameplay]/obituary-deaths
+[       203] Found new resource mapmanager in C:/Users\Insane\Desktop\FX/resources//[managers]/mapmanager
+[       203] Found new resource baseevents in C:/Users\Insane\Desktop\FX/resources//[system]/baseevents
+[       218] Found new resource chat in C:/Users\Insane\Desktop\FX/resources//[system]/chat
+[       218] Found new resource hardcap in C:/Users\Insane\Desktop\FX/resources//[system]/hardcap
+[       234] Found new resource rconlog in C:/Users\Insane\Desktop\FX/resources//[system]/rconlog
+[       234] Found new resource scoreboard in C:/Users\Insane\Desktop\FX/resources//[system]/scoreboard
+[       234] Found new resource sessionmanager in C:/Users\Insane\Desktop\FX/resources//[system]/sessionmanager
+[       250] Found new resource spawnmanager in C:/Users\Insane\Desktop\FX/resources//[system]/spawnmanager
+[       250] Found new resource betaguns in C:/Users\Insane\Desktop\FX/resources//[test]/betaguns
+[       265] Found new resource gameInit in C:/Users\Insane\Desktop\FX/resources//[test]/gameInit
+[       265] Found new resource keks in C:/Users\Insane\Desktop\FX/resources//[test]/keks
+[       296] Started resource sessionmanager
+[       296] Started resource mapmanager
+[       312] Started resource chat
+[       312] Started resource spawnmanager
+[       328] Started resource hardcap
+[       328] Started resource fivem
+[       328] Started gametype Freeroam
+[       343] Started resource rconlog
+[       828] Loaded MySqlAsync.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1547020361
+[       890] Loaded MySqlConnector, Version=0.19.4.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1547020361
+[      1187] Instantiated instance of script MySqlAsync.MySqlAsync.
+[      1187] Started resource mysql-async
+[      1265] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1281] Sending heartbeat to live-internal.fivem.net:30110
+[      1296] Started resource fivem-map-skater
+[      1328] Started map fivem-map-skater
+[      1468] hitch warning: frame time of 197 milliseconds
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[        94] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[        94]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[        94]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[        94] Found new resource fivem in C:/Users\Insane\Desktop\FX/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Insane\Desktop\FX/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Insane\Desktop\FX/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Users\Insane\Desktop\FX/resources//fivem-map-skater
+[       125] Found new resource foodhud in C:/Users\Insane\Desktop\FX/resources//foodhud
+[       125] Found new resource ft_gamemode in C:/Users\Insane\Desktop\FX/resources//ft_gamemode
+[       141] Found new resource InteractSound in C:/Users\Insane\Desktop\FX/resources//InteractSound
+[       141] Found new resource LMC-Los-Santos in C:/Users\Insane\Desktop\FX/resources//LMC-Los-Santos
+[       156] Found new resource mysql-async in C:/Users\Insane\Desktop\FX/resources//mysql-async
+[       156] Found new resource skins in C:/Users\Insane\Desktop\FX/resources//skins
+[       156] Found new resource race in C:/Users\Insane\Desktop\FX/resources//[gamemodes]/race
+[       172] Found new resource race-test in C:/Users\Insane\Desktop\FX/resources//[gamemodes]/race-test
+[       172] Found new resource channelfeed in C:/Users\Insane\Desktop\FX/resources//[gameplay]/channelfeed
+[       188] Found new resource irc in C:/Users\Insane\Desktop\FX/resources//[gameplay]/irc
+[       188] Found new resource obituary in C:/Users\Insane\Desktop\FX/resources//[gameplay]/obituary
+[       203] Found new resource obituary-deaths in C:/Users\Insane\Desktop\FX/resources//[gameplay]/obituary-deaths
+[       203] Found new resource mapmanager in C:/Users\Insane\Desktop\FX/resources//[managers]/mapmanager
+[       203] Found new resource baseevents in C:/Users\Insane\Desktop\FX/resources//[system]/baseevents
+[       219] Found new resource chat in C:/Users\Insane\Desktop\FX/resources//[system]/chat
+[       219] Found new resource hardcap in C:/Users\Insane\Desktop\FX/resources//[system]/hardcap
+[       234] Found new resource rconlog in C:/Users\Insane\Desktop\FX/resources//[system]/rconlog
+[       234] Found new resource scoreboard in C:/Users\Insane\Desktop\FX/resources//[system]/scoreboard
+[       234] Found new resource sessionmanager in C:/Users\Insane\Desktop\FX/resources//[system]/sessionmanager
+[       250] Found new resource spawnmanager in C:/Users\Insane\Desktop\FX/resources//[system]/spawnmanager
+[       250] Found new resource betaguns in C:/Users\Insane\Desktop\FX/resources//[test]/betaguns
+[       266] Found new resource gameInit in C:/Users\Insane\Desktop\FX/resources//[test]/gameInit
+[       266] Found new resource keks in C:/Users\Insane\Desktop\FX/resources//[test]/keks
+[       297] Started resource sessionmanager
+[       297] Started resource mapmanager
+[       313] Started resource chat
+[       313] Started resource spawnmanager
+[       328] Started resource hardcap
+[       328] Started resource rconlog
+[       703] Loaded MySqlAsync.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_492122559
+[       719] Loaded MySqlConnector, Version=0.19.4.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_492122559
+[       734] Instantiated instance of script MySqlAsync.MySqlAsync.
+[       734] Started resource mysql-async
+[       813] Started resource ft_gamemode
+[       828] Started gametype LMC RP v2.0
+[       859] Started resource foodhud
+[       891] Started resource InteractSound
+[       922] Started resource skins
+[       984] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1000] Sending heartbeat to live-internal.fivem.net:30110
+[      1000] Started resource LMC-Los-Santos
+[      1016] Started map LMC-Los-Santos
+[      1250] hitch warning: frame time of 151 milliseconds
+[     81641] Loaded System.Threading.Tasks.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_492122559
+[     83156] An error happens when opening MySQL connection Unable to connect to any of the specified MySQL hosts.
+[     83203] [0ms] An error happens when executing SELECT * FROM players WHERE steamId = @steamId : Connection must be Open; current state is Closed
+[     83281] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Connection must be Open; current state is Closed
+[     83281]   at MySqlAsync.MySqlAsync.ExecuteReader (System.String query, System.Collections.Generic.IDictionary`2[TKey,TValue] parameters) [0x00053] in <0bebf755dc10467bab62ba5f2b94590e>:0 
+[     83281]   at MySqlAsync.MySqlAsync.<MySqlAsync>m__4 (System.String query, System.Collections.Generic.IDictionary`2[TKey,TValue] parameters) [0x00000] in <0bebf755dc10467bab62ba5f2b94590e>:0 
+[     83297]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[     83297]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     83297]    --- End of inner exception stack trace ---
+[     83313] 
+[     83313] 
+[     83313] Server stack trace: 
+[     83313]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     83328]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     83328]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     83328]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     83344]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[     83344]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00051] in <b3642c6ba1504116b31d83a71003b504>:0 
+[     83344]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in <b3642c6ba1504116b31d83a71003b504>:0 
+[     83344]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     83359]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[     83359] 
+[     83359] Exception rethrown at [0]: 
+[     83359]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     83375]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[     83375]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x0001d] in <b3642c6ba1504116b31d83a71003b504>:0 
+[     83406] Error running system event handling function for resource ft_gamemode: citizen:/scripting/lua/scheduler.lua:39: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[     83422] stack traceback:
+[     83422] 	[C]: in function 'error'
+[     83422] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[     83438] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[     83438] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[     83438] 	citizen:/scripting/lua/scheduler.lua:338: in function <citizen:/scripting/lua/scheduler.lua:331>
+[     83453] 	(...tail calls...)
+[     83453] 	server/sv_player.lua:36: in field 'SelectPlayerInDB'
+[     83453] 	server/sv_player.lua:51: in field 'Init'
+[     83469] 	server/sv_players.lua:72: in function 'PlayerIsAllowed'
+[     83469] 	server/sv_players.lua:139: in upvalue 'handler'
+[     83469] 	citizen:/scripting/lua/scheduler.lua:124: in function <citizen:/scripting/lua/scheduler.lua:123>
+[     83484] stack traceback:
+[     83484] 	[C]: in function 'error'
+[     83484] 	citizen:/scripting/lua/scheduler.lua:39: in field 'CreateThreadNow'
+[     83484] 	citizen:/scripting/lua/scheduler.lua:123: in function <citizen:/scripting/lua/scheduler.lua:92>
+[     83500] Connecting: John Insane
+[     83500] hitch warning: frame time of 2185 milliseconds
+[     85672] Sending heartbeat to live-internal.fivem.net:30110
+[    141047] Error running system event handling function for resource ft_gamemode: citizen:/scripting/lua/scheduler.lua:39: Failed to execute thread: server/sv_players.lua:26: attempt to index a nil value (field '?')
+[    141063] stack traceback:
+[    141063] 	server/sv_players.lua:26: in function 'AddPlayer'
+[    141063] 	server/sv_init.lua:15: in upvalue 'handler'
+[    141078] 	citizen:/scripting/lua/scheduler.lua:124: in function <citizen:/scripting/lua/scheduler.lua:123>
+[    141078] stack traceback:
+[    141094] 	[C]: in function 'error'
+[    141094] 	citizen:/scripting/lua/scheduler.lua:39: in field 'CreateThreadNow'
+[    141109] 	citizen:/scripting/lua/scheduler.lua:123: in function <citizen:/scripting/lua/scheduler.lua:92>
+[    222219] Sending heartbeat to live-internal.fivem.net:30110
